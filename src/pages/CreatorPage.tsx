@@ -126,7 +126,7 @@ export function CreatorPage() {
               type="text"
               value={params.to}
               onChange={(e) => update({ to: e.target.value })}
-              placeholder="e.g. Sokha"
+              placeholder="e.g. Seusa"
               className="paradise-input"
             />
           </Field>
